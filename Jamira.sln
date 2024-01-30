@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jamira", "Jamira\Jamira.csproj", "{3C40E246-9EDF-4A5E-BE5B-D664A15A350F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C40E246-9EDF-4A5E-BE5B-D664A15A350F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C40E246-9EDF-4A5E-BE5B-D664A15A350F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C40E246-9EDF-4A5E-BE5B-D664A15A350F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C40E246-9EDF-4A5E-BE5B-D664A15A350F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A68E97E-3E78-46A4-9746-39534ABD8586}
+	EndGlobalSection
+EndGlobal
